@@ -1,0 +1,8 @@
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\bin\Debug\Polynom.exe
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\bin\Debug\Polynom.pdb
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\obj\x86\Debug\WindowsFormsApplication1.MainWin.resources
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\obj\x86\Debug\Ausgleich.csproj.GenerateResource.Cache
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\obj\x86\Debug\Polynom.exe
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\obj\x86\Debug\Polynom.pdb
+D:\Daten_HP\Daten\Projects\C#\Projects\Ausgleich_Gauss\Code\obj\x86\Debug\Ausgleich.csprojResolveAssemblyReference.cache
